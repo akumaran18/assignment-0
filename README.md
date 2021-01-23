@@ -6,14 +6,14 @@ Instructions modified from an assignment by Yao Li at the University of Illinois
 
 ## Files
 Instructions: 
-assignment_0.docx
-bg_analysis.py
+*assignment_0.docx
+*bg_analysis.py
 
 Blood glucose dataset:
-a.csv
+*a.csv
 
 Solution:
-Assignment_0_Kumaran_final.ipynb 
+*Assignment_0_Kumaran_final.ipynb 
 
 
 
