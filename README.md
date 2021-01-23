@@ -1,4 +1,4 @@
-# Example: Dataframe operations with pandas and numpy
+# Dataframe operations with pandas and numpy
 
 ## Overview
 ![](./all-member-avg-bg.png)
