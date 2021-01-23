@@ -7,6 +7,10 @@ In this example, a csv file of daily blood glucose values (365 values per unique
 Instructions modified from an assignment by Yao Li at the University of Illinois at Urbana-Champaign, yaoli90@illinois.edu.
 
 ## Files
+
+Detailed Solution:
+- Assignment_0_final.ipynb
+
 Instructions: 
 - assignment_0.docx
 - bg_analysis.py
@@ -14,8 +18,7 @@ Instructions:
 Blood glucose dataset:
 - a.csv
 
-Solution:
-- Assignment_0_final.ipynb 
+ 
 
 
 
