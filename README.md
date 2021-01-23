@@ -21,7 +21,9 @@ Blood glucose dataset:
 
 ![](./csv-readout.png)
 
+##Notes
 
+Please see enclosed solution for python library dependencies. '.ipynb' file extensions are Jupyter Notebook files run from Anaconda with Python 3. Instructions for downloading Anaconda can be found by scrolling to the bottom of this [Software Carpentry site](https://swc-uiuc.github.io/2020-07-researchpark/).
 
 
  
