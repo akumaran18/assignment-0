@@ -3,7 +3,7 @@
 ## Overview
 ![](./all-member-avg-bg.png)
 
-<img align="right" src="doc/all-member-avg-bg.png">
+<img align="right" src="all-member-avg-bg.png">
 
 In this example, a csv file of daily blood glucose values (365 values per unique member) is dimensionally flipped and stored in a numpy array. NaN values are replaced my the previous/next non-NaN value. Finally, the daily value averaged over all members is plotted over 365 days using matplotlib. 
 
