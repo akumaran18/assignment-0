@@ -19,6 +19,8 @@ Instructions:
 Blood glucose dataset:
 - a.csv
 
+<img align="right" src="csv-readout.png">
+
 ![](./csv-readout.png)
 
 ## Notes
