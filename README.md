@@ -1,4 +1,4 @@
-# Dataframe operations with pandas and numpy
+# Dataframe Operations with Pandas and Numpy
 
 ## Overview
 <img align="right" src="all-member-avg-bg.png">
